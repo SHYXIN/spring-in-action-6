@@ -12,6 +12,7 @@
 
     <modules>
         <module>ch02/taco-cloud</module>
+        <module>ch03/taco-cloud-jdbc</module>
     </modules>
 
 </project>
