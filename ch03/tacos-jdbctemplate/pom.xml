@@ -12,7 +12,7 @@
     <groupId>sia</groupId>
     <artifactId>taco-cloud</artifactId>
     <version>0.0.3-SNAPSHOT</version>
-    <name>taco-cloud-jdbc</name>
+    <name>tacos-jdbctemplate</name>
     <description>Taco Cloud Example</description>
     <properties>
         <java.version>11</java.version>
