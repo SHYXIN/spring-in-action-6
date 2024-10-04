@@ -13,6 +13,7 @@
         <module>ch02/taco-cloud</module>
         <module>ch03/tacos-jdbctemplate</module>
         <module>ch03/tacos-jdbc</module>
+        <module>ch03/tacos-jpa</module>
     </modules>
 
 </project>
