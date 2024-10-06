@@ -15,6 +15,7 @@
         <module>ch03/tacos-jdbc</module>
         <module>ch03/tacos-jpa</module>
         <module>ch04/tacos-sd-cassandra</module>
+        <module>ch04/tacos-sd-mongodb</module>
     </modules>
 
 </project>
