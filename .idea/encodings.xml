@@ -10,6 +10,8 @@
     <file url="file://$PROJECT_DIR$/ch03/tacos-jpa/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ch04/tacos-sd-cassandra/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ch04/tacos-sd-mongodb/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch05/taco-cloud-3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ch05/taco-cloud-sfc/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>

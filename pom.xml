@@ -16,6 +16,8 @@
         <module>ch03/tacos-jpa</module>
         <module>ch04/tacos-sd-cassandra</module>
         <module>ch04/tacos-sd-mongodb</module>
+        <module>ch05/taco-cloud-sfc</module>
+        <module>ch05/taco-cloud-3</module>
     </modules>
 
 </project>
